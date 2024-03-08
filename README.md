@@ -1,6 +1,6 @@
 <h1 align="center">Hi 🙋‍♂️, I'm Madhav Murari</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=A%20Full-stack%20web%20developer,;An%20enthusiast%20Problem%2FSolver,;Always%20learning%20new%20things.&font=Fira%20Code&center=true&width=440&height=45&color=D93A7C&vCenter=true&size=24"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=A%20Full-stack%20web%20developer,;An%20enthusiast%20Problem%20Solver,;Always%20learning%20new%20things.&font=Fira%20Code&center=true&width=440&height=45&color=D93A7C&vCenter=true&size=24"></a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Madhav-Murari&label=Profile%20views&color=0e75b6&style=flat" alt="Madhav-Murari" /> </p>
 
